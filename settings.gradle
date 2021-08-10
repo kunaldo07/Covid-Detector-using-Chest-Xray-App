@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Covid Detector using X-rays"
